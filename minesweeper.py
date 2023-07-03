@@ -1,5 +1,5 @@
 """Implementation of command-line minesweeper by Abdul Basit Tonmoy
-"""
+Spacial Thanks to Kylie Ying"""
 
 import random
 import re
